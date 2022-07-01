@@ -1,2 +1,2 @@
 # Basics
-Contains basc CNN model and a simple chatbot
+Contains a basic CNN model and a simple chatbot
